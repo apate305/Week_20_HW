@@ -17,3 +17,8 @@
 ## OUTPUT
 
 ![Screen Shot 2022-02-17 at 1 29 10 PM](https://user-images.githubusercontent.com/69228806/154810143-c2651ab4-3cba-4883-a542-a3b05fa50466.png)
+
+
+# Why this kind of exercise might be helpful for NLP: 
+
+Counting the frequency of all words and punctuation in a text file can be helpful to the natural language processing method because this could be an early step towards making sense of human languages before processing it with code to learn even more. This process also separates the text into tokens which can be used in different analysis methods like: Morphological Analysis or analyizing & identifying the structure of words. 
